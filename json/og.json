@@ -26,6 +26,10 @@
         {
             "type_name": "短剧",
             "type_id": "5"
+        },
+         {
+            "type_name": "教材",
+            "type_id": "21"
         }
     ],
     "Filters": {
