@@ -1,16 +1,4 @@
 
-欧歌分享,#genre#
-欧歌免费分享,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId= 
-欧歌免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-QQ频道欧歌API,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-接口nxog.top,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-关注公众号欧歌APP,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-QQ频道欧歌API,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-接口nxog.top,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-开通IP6观看,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
-开通IP6观看,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-欧歌免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
-
 
 央视IPV4,#genre#
 
